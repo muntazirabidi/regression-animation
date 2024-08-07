@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/regression-animation/static/css/main.e6c13ad2.css",
+    "main.js": "/regression-animation/static/js/main.46804bcd.js",
+    "static/js/453.3ee7ee9f.chunk.js": "/regression-animation/static/js/453.3ee7ee9f.chunk.js",
+    "index.html": "/regression-animation/index.html",
+    "main.e6c13ad2.css.map": "/regression-animation/static/css/main.e6c13ad2.css.map",
+    "main.46804bcd.js.map": "/regression-animation/static/js/main.46804bcd.js.map",
+    "453.3ee7ee9f.chunk.js.map": "/regression-animation/static/js/453.3ee7ee9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46804bcd.js"
+  ]
+}
