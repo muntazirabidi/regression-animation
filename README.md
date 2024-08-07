@@ -26,3 +26,26 @@ This interactive web application demonstrates the concepts of linear regression 
 To run this project locally:
 
 1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Start the development server
+
+## Technologies Used
+
+- React.js
+- Recharts for data visualization
+- GitHub Pages for deployment
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/muntazirabidi/regression-animation/issues) if you want to contribute.
+
+## License
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+## Contact
+
+Muntazir Abidi - [Your Email or Contact Information]
+
+Project Link: [https://github.com/muntazirabidi/regression-animation](https://github.com/muntazirabidi/regression-animation)
