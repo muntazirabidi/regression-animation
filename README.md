@@ -46,6 +46,6 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## Contact
 
-Muntazir Abidi - [Your Email or Contact Information]
+Muntazir Abidi 
 
 Project Link: [https://github.com/muntazirabidi/regression-animation](https://github.com/muntazirabidi/regression-animation)
